@@ -15,3 +15,4 @@ describe "GET '/' - Greeting Form" do
     expect(page).to have_field(:user_name)
   end
 end
+
